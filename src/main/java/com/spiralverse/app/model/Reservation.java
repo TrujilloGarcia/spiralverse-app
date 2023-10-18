@@ -1,4 +1,4 @@
-package com.gpch.mongo.model;
+package com.spiralverse.app.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

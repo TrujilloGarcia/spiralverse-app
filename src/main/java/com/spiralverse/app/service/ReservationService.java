@@ -1,7 +1,7 @@
-package com.gpch.mongo.service;
+package com.spiralverse.app.service;
 
-import com.gpch.mongo.model.Reservation;
-import com.gpch.mongo.repository.ReservationRepository;
+import com.spiralverse.app.model.Reservation;
+import com.spiralverse.app.repository.ReservationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

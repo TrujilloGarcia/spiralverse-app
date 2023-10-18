@@ -1,7 +1,7 @@
-package com.gpch.mongo.repository;
+package com.spiralverse.app.repository;
 
 
-import com.gpch.mongo.model.Reservation;
+import com.spiralverse.app.model.Reservation;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

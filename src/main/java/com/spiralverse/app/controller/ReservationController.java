@@ -1,7 +1,7 @@
-package com.gpch.mongo.controller;
+package com.spiralverse.app.controller;
 
-import com.gpch.mongo.model.Reservation;
-import com.gpch.mongo.service.ReservationService;
+import com.spiralverse.app.model.Reservation;
+import com.spiralverse.app.service.ReservationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

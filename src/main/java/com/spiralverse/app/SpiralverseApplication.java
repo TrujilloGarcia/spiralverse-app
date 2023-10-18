@@ -1,7 +1,7 @@
-package com.gpch.mongo;
+package com.spiralverse.app;
 
-import com.gpch.mongo.model.Reservation;
-import com.gpch.mongo.service.ReservationService;
+import com.spiralverse.app.model.Reservation;
+import com.spiralverse.app.service.ReservationService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -14,10 +14,10 @@ import java.util.List;
 
 @SpringBootApplication
 @Slf4j
-public class MongoApplication {
+public class SpiralverseApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MongoApplication.class, args);
+        SpringApplication.run(SpiralverseApplication.class, args);
     }
 
     @Bean
